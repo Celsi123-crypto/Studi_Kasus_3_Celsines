@@ -1,7 +1,5 @@
 # Studi_Kasus_3_Celsines Rante Tasak
 
-# Studi Kasus 3 - Program Pengelompokan dan Penghapusan Nilai
-
 Program Python ini dibuat untuk mengolah data nilai mahasiswa berdasarkan kriteria batas lulus.
 
 ## Penjelasan Singkat Kode
